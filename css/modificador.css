@@ -168,3 +168,11 @@ label{
 .thumbnail .caption{
 	color:#FFF !important;
 }
+
+.list-group-item{
+	background-color: #4F688C !important;
+}
+
+.badge{
+	background-color:#AFB7CA !important;
+}
